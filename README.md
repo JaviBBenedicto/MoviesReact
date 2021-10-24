@@ -6,4 +6,6 @@
 
 This application aims to recreate a streaming movie rental service.
 
+Currently the application generates queries to an api (themoviedb) and returns information about the movie selected by the user.
+
 ![app](https://user-images.githubusercontent.com/90817111/138573970-87e84f3e-3848-453c-99d5-bb696ce14edf.gif)
