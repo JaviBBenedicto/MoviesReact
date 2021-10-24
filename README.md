@@ -4,4 +4,6 @@
 ```
 ## About
 
+This application aims to recreate a streaming movie rental service.
+
 ![app](https://user-images.githubusercontent.com/90817111/138573970-87e84f3e-3848-453c-99d5-bb696ce14edf.gif)
